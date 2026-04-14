@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b4ccad13-967a-4131-879b-51314e63e0d0",
+  "id_short": 770405,
+  "published_at": "2026-04-14T19:24:02Z",
+  "repo_name": "new-restaurant-domains-365-days-in-south-carolina-us-sample-770405",
+  "sample_asset_name": "beamstation_770405_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/770405/beamstation_770405_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_records": 40,
+  "sample_sha256": "1b26a78d660ca8dd36dd73694e8548f89ba69460bc85cf8d15549b3392592987",
+  "sample_size_bytes": 143801,
+  "total_records": 400
+}
