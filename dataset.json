@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in South Carolina, US",
+  "export_job_id": "b4ccad13-967a-4131-879b-51314e63e0d0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 770405,
+  "location_name": "South Carolina",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-south-carolina-us-sample-770405",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/770405/beamstation_770405_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 40,
+  "sample_sha256": "1b26a78d660ca8dd36dd73694e8548f89ba69460bc85cf8d15549b3392592987",
+  "sample_size_bytes": 143801,
+  "total_records": 400,
+  "updated_at": "2026-04-09T20:38:06.515707+00:00"
+}
